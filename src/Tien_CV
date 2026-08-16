@@ -1,0 +1,254 @@
+cv:
+  name: "Nhat Tien Nguyen Hoang"
+  location: "Melbourne, Australia"
+  email: "nhattiencool@gmail.com"
+  phone: "+61 449 183 864"
+  social_networks:
+    - network: "LinkedIn"
+      username: "nhat-tien-nguyen-hoang"
+
+  sections:
+
+    skills:
+      - label: "Financial Analysis"
+        details: "Financial Modelling, Business Valuation, Equity Research, Strategic
+          Analysis"
+      - label: "Operations & Management"
+        details: "Project Management, Event Management, Client Relationship Management"
+      - label: "Soft Skills"
+        details: "Presentation & Communication, Leadership & Teamwork"
+
+    certifications:
+      - bullet: "Passed CFA Level 1 — CFA Institute (May 2025)"
+
+    projects_and_competitions:
+      - name: "CFA Institute Research Challenge (Melbourne / South Australia Chapter) —
+          Second Place"
+        start_date: "2025-05"
+        end_date: "2025-11"
+        highlights:
+          - "Built 5-year integrated 3-statement model to value Xero following
+            the Melio acquisition, incorporating key balance sheet items and
+            fully diluted shares outstanding including convertible notes and
+            acquisition-related issuance."
+          - "Performed DCF and comparable valuation, applying sensitivity
+            analysis and bull/base/bear scenario testing to stress-test
+            operational assumptions, scenarios, and model outputs."
+          - "Led the valuation, financial modelling, and risk analysis sections
+            and presented the team's investment recommendation to CFA
+            charterholder judges and 50+ finance professionals."
+      - name: "CFA Research Challenge (RMIT Internal Round Winning Team)"
+        start_date: "2025-05"
+        end_date: "2025-07"
+        highlights:
+          - "Selected to represent RMIT University against 8 universities;
+            conducted equity research on REA Group."
+      - name: "Cross-Asset Market Research"
+        start_date: "2022"
+        end_date: "present"
+        highlights:
+          - "Maintain a multi-year market research journal analysing macro
+            drivers and cross-asset price movements across equities,
+            commodities, FX, and cryptocurrencies."
+          - "Develop and test market hypotheses through real trade observations
+            and post-trade analysis."
+
+    experience:
+      - company: "Central Pharmacy Logistics Australia"
+        position: "Accountant Assistant"
+        start_date: "2026-04"
+        end_date: "present"
+        highlights:
+          - "Managed day-to-day financial operations, performed account
+            reconciliations, and supported month-end close, including journals,
+            variance analysis, and expense reports."
+          - "Assisted in BAS preparation."
+          - "Supported schedules for external audits, FY2026 tax compliance, and
+            Fringe Benefits Tax (FBT) reporting."
+      - company: "Global Realty Australia"
+        position: "Property Consultant"
+        start_date: "2025-03"
+        end_date: "2026-04"
+        highlights:
+          - "Advised clients on residential property investments, analysing
+            local market trends, pricing dynamics, and comparable transactions
+            to support investment decisions."
+          - "Conducted market research and financial comparisons of property
+            opportunities, evaluating potential returns and risks for buyers."
+          - "Built and maintained client relationships, providing tailored
+            recommendations based on market conditions and client objectives."
+      - company: "RMIT University x Undisclosed Private Firm"
+        position: "Market Research Micro Intern"
+        start_date: "2024-07"
+        end_date: "2024-08"
+        highlights:
+          - "Conducted thorough research on the current state of the cannabis
+            and healthcare sector in Germany including economics, trends,
+            consumer demand, and social factors."
+          - "Analysed potential risks and legal framework in preparation for
+            market entry to Germany and the EU."
+          - "Identified key competitors, understanding their positions and
+            competitive strategies in the market."
+      - company: "Viettonkin Consulting Vietnam"
+        position: "Finance & Business Development Intern"
+        start_date: "2023-08"
+        end_date: "2024-01"
+        highlights:
+          - "Conducted industry, market, and competitor research in the
+            construction and infrastructure sectors, analysing PPP projects,
+            regulatory developments, and investment trends."
+          - "Produced market insights and strategic reports to support client
+            advisory and business development initiatives."
+          - "Collaborated with the Business Development team to identify market
+            opportunities and support proposals for potential consulting
+            projects."
+      - company: "RMIT Vietnam Finance Club"
+        position: "External Relations Executive"
+        start_date: "2023-12"
+        end_date: "2024-02"
+        highlights:
+          - "Coordinated reaching out to potential sponsors and guest speakers
+            for events, connecting with 100+ experts in Finance, Marketing, and
+            Business."
+          - "Coordinated promoting the club's image to students at RMIT."
+          - "Negotiated guest speaker positions with experts, serving as the
+            main contact point for the Manager of PwC South East Asia
+            Consulting."
+    education:
+      - institution: "RMIT University"
+        area: "Finance & Accounting"
+        degree: "BBus & BAcc"
+        start_date: "2022"
+        end_date: "2026"
+        highlights:
+          - "Top performing student in Derivatives; High Distinction across
+            several Finance subjects"
+          - "GPA: 3.5/4.0"
+      - institution: "CBS - Center For Business Skills Training and Consulting"
+        area: "Wealth Management"
+        date: "2023"
+design:
+  theme: engineeringresumes
+  page:
+    size: a4
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: false
+    show_top_note: true
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.4em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: XCharter
+      name: XCharter
+      headline: XCharter
+      connections: XCharter
+      section_titles: XCharter
+    font_size:
+      body: 8.5pt
+      name: 25pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.2em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: false
+      headline: false
+      connections: false
+      section_titles: true
+  links:
+    underline: true
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    photo_position: left
+    photo_space_left: 0.1cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.3cm
+    space_below_headline: 0.3cm
+    space_below_connections: 0.3cm
+    connections:
+      phone_number_format: national
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: '|'
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_full_line
+    line_thickness: 0.5pt
+    space_above: 0.3cm
+    space_below: 0.3cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 0.2cm
+    space_between_text_based_entries: 0.1cm
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: false
+    degree_width: 1cm
+    summary:
+      space_above: 0.08cm
+      space_left: 0cm
+    highlights:
+      bullet: ●
+      nested_bullet: ●
+      space_left: 0cm
+      space_above: 0.08cm
+      space_between_items: 0.08cm
+      space_between_bullet_and_text: 0.3em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, DEGREE_WITH_AREA -- LOCATION
+        SUMMARY
+        HIGHLIGHTS
+      degree_column:
+      date_and_location_column: DATE
+    normal_entry:
+      main_column: |-
+        **NAME** -- **LOCATION**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: DATE
+    experience_entry:
+      main_column: |-
+        **POSITION**, COMPANY -- LOCATION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
