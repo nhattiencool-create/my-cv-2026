@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install RenderCV
-        run: pip install rendercv
+        run: pip install "rendercv[full]"
 
       - name: Generate CV PDF
         run: rendercv render src/*_CV.yaml
